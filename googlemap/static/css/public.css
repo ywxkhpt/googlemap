@@ -1,0 +1,123 @@
+.about-history{ 
+ padding:15px; 
+}
+.about-history-list{ position:relative;}
+.about-history-list .slides li{ 
+	position:relative; 
+	width:200px; 
+	height:385px; 
+
+	}
+.about-history-list .slides li .item{
+	 position:absolute; 
+	 right:-32px; 
+	 bottom:0; 
+	 left:-32px; 
+	 min-height:120px; 
+	 padding:30px 0 0 0;
+	  background-color:rgba(255,255,255,0.1); 
+	  -webkit-transition:all .2s ease; 
+	  -moz-transition:all .2s ease; 
+	  -ms-transition:all .2s ease; 
+	  -o-transition:all .2s ease;
+	   transition:all .2s ease;}/*下边框的属性设定*/
+/*.about-history-list .slides li .item:before{ 
+	position:absolute; 
+	top:-49px; 
+	left:50%; 
+	width:20px; 
+	height:20px;
+	 overflow:hidden; 
+	 margin-left:-10px; 
+	 -webkit-border-radius:100%; 
+	 -moz-border-radius:100%; 
+	 border-radius:100%;
+	  background-color:rgba(218,183,101,.1); 
+	  content:'';}*/
+.about-history-list .slides li .item:after{ 
+	position:absolute;
+	 top:-45px; 
+	 left:50%; 
+	 width:12px; 
+	 height:12px; 
+	 overflow:hidden; 
+	 margin-left:-6px; 
+	 -webkit-border-radius:100%; 
+	 -moz-border-radius:100%; 
+	 border-radius:100%; 
+	 background-color:#DAB765; 
+	 content:'';}/*中间圆点设定*/
+.about-history-list .slides li:nth-child(even) .item{ 
+	top:0;
+	 bottom:auto; 
+	 padding:0 0 30px;
+	 background-color:rgba(255,255,255,0.1);
+	 }/*上边框设定*/
+/*.about-history-list .slides li:nth-child(even) .item:before{ 
+	top:auto; 
+	bottom:-49px;
+	}*/
+.about-history-list .slides li:nth-child(even) .item:after{ 
+	top:auto; 
+	bottom:-45px;
+	}/*上边的圆点*/
+.about-history-list .slides li .item:hover{ background-color:#6666ff;}/*点击后框的背景颜色*/
+.about-history-list .slides li .item h3{
+	 position:absolute;
+	  top:0;
+	   right:0;
+	   left:0; 
+	   height:35px; 
+	   line-height:35px; 
+	   margin:0; 
+	   font-size:20px; 
+	   font-weight:400; 
+	   color:#FFFFFF; 
+	   text-align:center; 
+	   background-color:rgba(255,255,255,0.3); 
+	   -webkit-transition:all .2s ease;
+	    -moz-transition:all .2s ease; 
+	    -ms-transition:all .2s ease; 
+	    -o-transition:all .2s ease; 
+	    transition:all .2s ease;}/*年月框的设定*/
+.about-history-list .slides li .item:hover h3{ color:#232323; background-color:#fff;}/*点击后年月框的背景改变*/
+.about-history-list .slides li .item h3:before{ 
+	position:absolute; 
+	bottom:100%; 
+	left:50%;
+	 margin-left:-9px; 
+	 border-width:0 9px 18px;
+	  border-style:solid; 
+	  border-color:transparent transparent #E2E2E2; 
+	  content:'';}/*下指标的设定*/
+.about-history-list .slides li:nth-child(even) .item h3{ top:auto; bottom:0;}/*上边框字的位置*/
+.about-history-list .slides li:nth-child(even) .item h3:before{ 
+	top:100%; 
+	bottom:auto;
+	 border-width:18px 9px 0; 
+	 border-color:#E2E2E2 transparent transparent;
+	 }/*上指标的设定*/
+.about-history-list .slides li .item .desc{ 
+	line-height:24px;
+	padding:20px 26px 0; 
+	font-size:20px; 
+	color:#FF8500;}/*框中字的设定*/
+
+.about-history-list .slides li .item .desc p{ margin:0;}
+.about-history-list .flex-direction-nav{ padding:0; margin:0; list-style:none;}
+.about-history-list .flex-direction-nav a{ 
+	position:absolute; 
+	top:50%; 
+	width:48px;
+	 height:160px; 
+	 line-height:160px;
+	 overflow:hidden; 
+	 margin-top:-80px; 
+	 font-size:50px; 
+	 font-family:simsun; 
+	 color:#ffffff; 
+	 text-align:center;}/*按钮的设定*/
+.about-history-list .flex-direction-nav a.flex-prev{ left:-20px;}/*左右按钮设定*/
+.about-history-list .flex-direction-nav a.flex-next{ right:-20px;}
+
+
