@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>这是搜索结果页面</title>
+</head>
+<body>
+<h1>下面应该填充搜索结果</h1><br>
+<ul>
+    {% for person in result %}
+        {% for key,value in person.items %}
+            {{ key }} : {{value}}<br>
+        {% endfor %}
+    {% endfor %}
+</ul>
+
+</body>
+</html>
