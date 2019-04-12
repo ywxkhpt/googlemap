@@ -5,7 +5,8 @@
 import requests
 import uuid
 
-save_dir = "E:\pictures"
+# 工程的图片存储目录
+save_dir = "C:\Users\hptue\Desktop\googlemap"
 
 
 def save_to_local(image_url):
@@ -29,8 +30,9 @@ def facebook_save_to_local(image_url):
     """
     proxies = {'http': 'http://kb111.asuscomm.com:8118', 'https': 'https://kb111.asuscomm.com:8118'}
     image = requests.get(image_url, proxies=proxies, verify=False)
-    file_name = save_dir + "\\facebook\\" + str(uuid.uuid1()).replace('-', '') + '.jpg'
-    with open("%s" % file_name, 'wb') as file:
+    file_name = "static/images/facebook/" + str(uuid.uuid1()).replace('-', '') + '.jpg'
+    store_path = save_dir + "/" + file_name
+    with open("%s" % store_path, 'wb') as file:
         file.write(image.content)
     return file_name
 
@@ -43,8 +45,9 @@ def twitter_save_to_local(image_url):
     """
     proxies = {'http': 'http://kb111.asuscomm.com:8118', 'https': 'http://kb111.asuscomm.com:8118'}
     image = requests.get(image_url,proxies=proxies, verify=False)
-    file_name = save_dir + "\\twitter\\" + str(uuid.uuid1()).replace('-', '') + '.jpg'
-    with open("%s" % file_name, 'wb') as file:
+    file_name = "static/images/twitter/" + str(uuid.uuid1()).replace('-', '') + '.jpg'
+    store_path = save_dir + "/" + file_name
+    with open("%s" % store_path, 'wb') as file:
         file.write(image.content)
     return file_name
 
@@ -57,9 +60,11 @@ def linkedin_save_to_local(image_url):
     """
     # proxies = {'http': 'http://kb111.asuscomm.com:8118', 'https': 'http://kb111.asuscomm.com:8118'}
     image = requests.get(image_url)
-    file_name = save_dir + "\\linkedin\\" + str(uuid.uuid1()).replace('-', '') + '.jpg'
-    with open("%s" % file_name, 'wb') as file:
+    file_name = "static/images/linkedin/" + str(uuid.uuid1()).replace('-', '') + '.jpg'
+    store_path = save_dir + "/" + file_name
+    with open("%s" % store_path, 'wb') as file:
         file.write(image.content)
+    # return store_path
     return file_name
 
 

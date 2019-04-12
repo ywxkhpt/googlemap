@@ -1,0 +1,19 @@
+{% load static %}
+<div>
+    <section class="gallery-wrapper">
+
+        {% for person in result %}
+            <article class="white-panel">
+                <img src={{ person.head_image }} class="thumb">
+                <h1><a href= {{ person.person_website }} target="_blank">{{ person.name }}</a></h1>
+                <p>{{ person.location }}</p>
+                <p>{{ person.description }}</p>
+            </article>
+        {% endfor %}
+
+    </section>
+    <footer class="related">
+        <br/> <br/><br/>
+        <h3>已经到底了...</h3>
+    </footer>
+</div>

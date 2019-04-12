@@ -1,3 +1,4 @@
+# -*- coding:utf-8 -*-
 """googlemap URL Configuration
 
 The `urlpatterns` list routes URLs to views. For more information please see:
@@ -16,6 +17,7 @@ Including another URLconf
 from django.conf.urls import url
 from django.contrib import admin
 from myapp import views
+from django.views.static import serve
 
 urlpatterns = [
     url(r'^admin/', admin.site.urls),
@@ -26,4 +28,6 @@ urlpatterns = [
     url(r'^user_info', views.user_info, name='user_info'),
     url(r'^user_trade', views.user_trade, name='user_trade'),
     url(r'^search', views.search, name='search'),
+    # document_root为工程的文件夹目录
+    url(r'^static/(?P<path>.*)$', serve, {'document_root': 'C:\Users\hptue\Desktop\googlemap\static'})
 ]
