@@ -5,7 +5,7 @@
 import requests
 import uuid
 
-# 工程的图片存储目录
+# 工程的图片存储目录 部署的时候需要修改
 save_dir = "C:\Users\hptue\Desktop\googlemap"
 
 
