@@ -45,6 +45,7 @@ class API(object):
         """
         self.chrome_options = webdriver.ChromeOptions()
         # 设置无界面浏览器
+        # 服务器端需要设置无头
         # self.chrome_options.add_argument('--headless')
         # self.chrome_options.add_argument('--disable-gpu')
         # self.chrome_options.add_argument('--no-sandbox')
