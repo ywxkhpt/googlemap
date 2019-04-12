@@ -1,0 +1,225 @@
+name:Allen
+head_url:https://scontent-hkg3-1.xx.fbcdn.net/v/t1.0-1/c22.0.74.74a/p74x74/10354686_10150004552801856_220367501106153455_n.jpg?_nc_cat=1&_nc_ht=scontent-hkg3-1.xx&oh=bfb99a3bd4a8313edadaa59d176c7926&oe=5D022C59
+person_website:https://www.facebook.com/profile.php?id=100034704938078&ref=br_rs
+description:
+head_image:E:\pictures\facebook\5a7ace004edc11e9b9182c4d5453d6fe.jpg
+location:
+
+name:Allen
+head_url:https://scontent-hkg3-1.xx.fbcdn.net/v/t1.0-1/c22.0.74.74a/p74x74/1379841_10150004552801901_469209496895221757_n.jpg?_nc_cat=1&_nc_ht=scontent-hkg3-1.xx&oh=0bffc26e50cfe43d7ad03041c5961220&oe=5D0DD9BE
+person_website:https://www.facebook.com/profile.php?id=100034408070631&ref=br_rs
+description:
+head_image:E:\pictures\facebook\5abb0b4f4edc11e9a9a72c4d5453d6fe.jpg
+location:
+
+name:Allen
+head_url:https://scontent-hkg3-1.xx.fbcdn.net/v/t1.0-1/c22.0.74.74a/p74x74/10354686_10150004552801856_220367501106153455_n.jpg?_nc_cat=1&_nc_ht=scontent-hkg3-1.xx&oh=bfb99a3bd4a8313edadaa59d176c7926&oe=5D022C59
+person_website:https://www.facebook.com/profile.php?id=100034499296350&ref=br_rs
+description:
+head_image:E:\pictures\facebook\5b0ea9914edc11e986a12c4d5453d6fe.jpg
+location:
+
+name:Allen
+head_url:https://scontent-hkg3-1.xx.fbcdn.net/v/t1.0-1/c22.0.74.74a/p74x74/10354686_10150004552801856_220367501106153455_n.jpg?_nc_cat=1&_nc_ht=scontent-hkg3-1.xx&oh=bfb99a3bd4a8313edadaa59d176c7926&oe=5D022C59
+person_website:https://www.facebook.com/profile.php?id=100034391510988&ref=br_rs
+description:
+head_image:E:\pictures\facebook\5b4dfc804edc11e9b8dc2c4d5453d6fe.jpg
+location:
+
+name:杨书鉴
+head_url:https://scontent-hkg3-1.xx.fbcdn.net/v/t1.0-1/p74x74/26903791_1997988923805007_6285371141859018741_n.jpg?_nc_cat=108&_nc_ht=scontent-hkg3-1.xx&oh=b07e4b7506b16eb192f32577ff11efdb&oe=5D1232D9
+person_website:https://www.facebook.com/profile.php?id=100007817560013&ref=br_rs
+description:Zhejiang University
+就读于：Zhejiang University，所学专业：Aviations
+所在地：四川省 成都市
+
+head_image:E:\pictures\facebook\5b8d9d914edc11e9a3de2c4d5453d6fe.jpg
+location:四川省 成都市
+
+name:Allen Ricardo
+head_url:https://scontent-hkg3-1.xx.fbcdn.net/v/t1.0-1/c0.0.74.74a/p74x74/53337683_121579475607186_7389491988682244096_n.jpg?_nc_cat=105&_nc_ht=scontent-hkg3-1.xx&oh=f974d1623e278396c5df5347044fbfba&oe=5D4E3E8C
+person_website:https://www.facebook.com/allen.ricardo.961?ref=br_rs
+description:
+head_image:E:\pictures\facebook\5bcfd6b04edc11e9a5432c4d5453d6fe.jpg
+location:
+
+name:唐開源
+head_url:https://scontent-hkg3-1.xx.fbcdn.net/v/t1.0-1/p74x74/14390819_659974844159037_4354840033345437268_n.jpg?_nc_cat=100&_nc_ht=scontent-hkg3-1.xx&oh=d6aa16d461a04387fef1a2973728ea08&oe=5D03C4AA
+person_website:https://www.facebook.com/tangkaiyuan.summer?ref=br_rs
+description:Jinan University
+在 Jinan University 学习国际经济 与贸易，'17 届
+所在地：广东省 广州市
+
+head_image:E:\pictures\facebook\5c14cef04edc11e991af2c4d5453d6fe.jpg
+location:广东省 广州市
+
+name:Allen Xie
+head_url:https://scontent-hkg3-1.xx.fbcdn.net/v/t1.0-1/p74x74/13567040_244014432650528_7855156427675012498_n.jpg?_nc_cat=105&_nc_ht=scontent-hkg3-1.xx&oh=60dadfb3d353a24f5ba6bcf432857c22&oe=5D0602EF
+person_website:https://www.facebook.com/zhihuixie233?ref=br_rs
+description:就读于 Rice University '19 年班
+所在地：休斯敦
+
+head_image:E:\pictures\facebook\5c5385a14edc11e9b5b62c4d5453d6fe.jpg
+location:Rice University
+
+name:谢尧
+head_url:https://scontent-hkg3-1.xx.fbcdn.net/v/t1.0-1/p74x74/17191148_1885342375010531_6417747081856269574_n.jpg?_nc_cat=111&_nc_ht=scontent-hkg3-1.xx&oh=c07c586aedea799532f70df496098db2&oe=5D142DDB
+person_website:https://www.facebook.com/Allenxie8?ref=br_rs
+description:UCLA
+将在 Google 上班
+在 UCLA 学习 Computer Science，'19 届
+
+head_image:E:\pictures\facebook\5c92b1804edc11e9aed52c4d5453d6fe.jpg
+location:Google
+
+name:Allen XU
+head_url:https://scontent-hkg3-1.xx.fbcdn.net/v/t1.0-1/p74x74/49395777_210990296519656_5764407227234385920_n.jpg?_nc_cat=108&_nc_ht=scontent-hkg3-1.xx&oh=6a7224a89bdc1c4b52b66f3d7e214a99&oe=5D452F65
+person_website:https://www.facebook.com/allen.xu.12177?ref=br_rs
+description:来自：广东省 中山市
+
+head_image:E:\pictures\facebook\5cd2a0b04edc11e98e0e2c4d5453d6fe.jpg
+location:广东省 中山市
+
+name:Allen Allen
+head_url:https://scontent-hkg3-1.xx.fbcdn.net/v/t1.0-1/p74x74/48398075_500550470468177_8910246638686044160_n.jpg?_nc_cat=103&_nc_ht=scontent-hkg3-1.xx&oh=ef717531f7d70c7ad7edc73668294d99&oe=5D10CB46
+person_website:https://www.facebook.com/profile.php?id=100015396849299&ref=br_rs
+description:曾经就读：China University of Mining & Technology (Beijing)
+
+head_image:E:\pictures\facebook\5d11304f4edc11e9af772c4d5453d6fe.jpg
+location:China University of Mining & Technology (Beijing)
+
+name:Allen Guo
+head_url:https://scontent-hkg3-1.xx.fbcdn.net/v/t1.0-1/p74x74/23130708_1966007063720953_6291461760490494425_n.jpg?_nc_cat=106&_nc_ht=scontent-hkg3-1.xx&oh=ca05e5ca49b0b186a811e92b18f677c7&oe=5D4DA447
+person_website:https://www.facebook.com/jack.peter.31337?ref=br_rs
+description:电子科技大学
+曾经就读：电子科技大学
+所在地：四川省 成都市
+
+head_image:E:\pictures\facebook\5d516da14edc11e988182c4d5453d6fe.jpg
+location:四川省 成都市
+
+name:Allen Wang
+head_url:https://scontent-hkg3-1.xx.fbcdn.net/v/t1.0-1/p74x74/22406029_121665998525806_6857189770143696629_n.jpg?_nc_cat=106&_nc_ht=scontent-hkg3-1.xx&oh=2de504b8f5dd5b0d1fe5120fdd95f973&oe=5D48B4B4
+person_website:https://www.facebook.com/profile.php?id=100020472188241&ref=br_rs
+description:
+head_image:E:\pictures\facebook\5d8f12e14edc11e9bf7f2c4d5453d6fe.jpg
+location:
+
+name:程浩男
+head_url:https://scontent-hkg3-1.xx.fbcdn.net/v/t1.0-1/p74x74/20108465_1834849093497637_7328995672832566914_n.jpg?_nc_cat=110&_nc_ht=scontent-hkg3-1.xx&oh=eb4c69764bfaae0802e1affa5b83c441&oe=5D1B6D77
+person_website:https://www.facebook.com/allen.cheng.121398?ref=br_rs
+description:Universität St.Gallen (HSG)
+曾在 Unilever 担任 Marketing Intern-Brand Development
+在 Universität St.Gallen (HSG) 学习 Banking and Finance，'19 届
+
+head_image:E:\pictures\facebook\5dcc6a004edc11e9b5e82c4d5453d6fe.jpg
+location:Unilever
+
+name:Allen Smith
+head_url:https://scontent-hkg3-1.xx.fbcdn.net/v/t1.0-1/c22.0.74.74a/p74x74/10354686_10150004552801856_220367501106153455_n.jpg?_nc_cat=1&_nc_ht=scontent-hkg3-1.xx&oh=bfb99a3bd4a8313edadaa59d176c7926&oe=5D022C59
+person_website:https://www.facebook.com/profile.php?id=100030526025690&ref=br_rs
+description:
+head_image:E:\pictures\facebook\5e0d1c804edc11e9acee2c4d5453d6fe.jpg
+location:
+
+name:Allen Erymo
+head_url:https://scontent-hkg3-1.xx.fbcdn.net/v/t1.0-1/p74x74/40026378_103397363946242_3256438787873439744_n.jpg?_nc_cat=101&_nc_ht=scontent-hkg3-1.xx&oh=e7c0bd32e58025be12f919da9b072de4&oe=5D046080
+person_website:https://www.facebook.com/allen.erymo.10?ref=br_rs
+description:
+head_image:E:\pictures\facebook\5e4b850f4edc11e987582c4d5453d6fe.jpg
+location:
+
+name:田发祥
+head_url:https://scontent-hkg3-1.xx.fbcdn.net/v/t1.0-1/c0.0.74.74a/p74x74/10501673_251437838398243_618357133484215621_n.jpg?_nc_cat=105&_nc_ht=scontent-hkg3-1.xx&oh=ae70e22659ac8ea9f016c77a30310681&oe=5D07A96E
+person_website:https://www.facebook.com/profile.php?id=100005960867531&ref=br_rs
+description:SJTU
+曾经就读：SJTU
+所在地：上海
+
+head_image:E:\pictures\facebook\5e8b4d304edc11e9abed2c4d5453d6fe.jpg
+location:上海
+
+name:胡晓嵩
+head_url:https://scontent-hkg3-1.xx.fbcdn.net/v/t1.0-1/p74x74/10402489_1415347312078452_1579099412371856940_n.jpg?_nc_cat=107&_nc_ht=scontent-hkg3-1.xx&oh=77e3f24ce2c89579f30752f950e3ef9d&oe=5D1910C6
+person_website:https://www.facebook.com/xs.hu.92?ref=br_rs
+description:The Ohio State University
+曾经就读：The Ohio State University，'18 届
+所在地：哥伦布
+
+head_image:E:\pictures\facebook\5ecaee404edc11e99d672c4d5453d6fe.jpg
+location:哥伦布
+
+name:Allen Wang
+head_url:https://scontent-hkg3-1.xx.fbcdn.net/v/t1.0-1/p74x74/22780183_483629028675639_162766436741980968_n.jpg?_nc_cat=104&_nc_ht=scontent-hkg3-1.xx&oh=09d39b1e64dfa1be32f2b8cc5436b362&oe=5D115ED4
+person_website:https://www.facebook.com/allen.wang.3950178?ref=br_rs
+description:
+head_image:E:\pictures\facebook\5f09f30f4edc11e9b2542c4d5453d6fe.jpg
+location:
+
+name:Allen King
+head_url:https://scontent-hkg3-1.xx.fbcdn.net/v/t1.0-1/p74x74/20294251_104365363592445_5725965272329697506_n.jpg?_nc_cat=102&_nc_ht=scontent-hkg3-1.xx&oh=7f502381fc3515a07efbd74d2776d8a0&oe=5D4C9770
+person_website:https://www.facebook.com/allen.king.374549?ref=br_rs
+description:
+head_image:E:\pictures\facebook\5f48d0d14edc11e9b5702c4d5453d6fe.jpg
+location:
+
+name:施乃成
+head_url:https://scontent-hkg3-1.xx.fbcdn.net/v/t1.0-1/p74x74/12072689_1677359922510358_2661814179700026650_n.jpg?_nc_cat=108&_nc_ht=scontent-hkg3-1.xx&oh=82a2b52f1a5fe87af6d157d1a43da648&oe=5D0F7F1A
+person_website:https://www.facebook.com/profile.php?id=100007090996213&ref=br_rs
+description:江南大学
+曾经就读：江南大学
+所在地：江苏省 无锡市
+
+head_image:E:\pictures\facebook\5f8712514edc11e9a9c82c4d5453d6fe.jpg
+location:江苏省 无锡市
+
+name:Allen Young
+head_url:https://scontent-hkg3-1.xx.fbcdn.net/v/t1.0-1/p74x74/24909652_121380665315591_1436020276932324323_n.jpg?_nc_cat=105&_nc_ht=scontent-hkg3-1.xx&oh=64d31672b10c58c6ccd35ea071d26efd&oe=5D146C90
+person_website:https://www.facebook.com/profile.php?id=100023309753603&ref=br_rs
+description:
+head_image:E:\pictures\facebook\5fc665404edc11e99c5f2c4d5453d6fe.jpg
+location:
+
+name:Allen Xu
+head_url:https://scontent-hkg3-1.xx.fbcdn.net/v/t1.0-1/p74x74/32893569_102479547303322_2932479158606888960_n.jpg?_nc_cat=104&_nc_ht=scontent-hkg3-1.xx&oh=7cbd70cb739a564137af2adac42d0f50&oe=5D4778A9
+person_website:https://www.facebook.com/allen.xu.167189?ref=br_rs
+description:
+head_image:E:\pictures\facebook\600c47de4edc11e9b0192c4d5453d6fe.jpg
+location:
+
+name:Allen Yao
+head_url:https://scontent-hkg3-1.xx.fbcdn.net/v/t1.0-1/p74x74/21032563_101485320588270_6727741699519117651_n.jpg?_nc_cat=111&_nc_ht=scontent-hkg3-1.xx&oh=ce6e0c8ae2053b66541800273b79946b&oe=5D0A1623
+person_website:https://www.facebook.com/allen.yao.184?ref=br_rs
+description:所在地：广东省 深圳市
+
+head_image:E:\pictures\facebook\604dbdae4edc11e991a02c4d5453d6fe.jpg
+location:广东省 深圳市
+
+name:Allen Senqi
+head_url:https://scontent-hkg3-1.xx.fbcdn.net/v/t1.0-1/c22.0.74.74a/p74x74/10354686_10150004552801856_220367501106153455_n.jpg?_nc_cat=1&_nc_ht=scontent-hkg3-1.xx&oh=bfb99a3bd4a8313edadaa59d176c7926&oe=5D022C59
+person_website:https://www.facebook.com/allen.senqi.5?ref=br_rs
+description:
+head_image:E:\pictures\facebook\608dfb004edc11e9ba0e2c4d5453d6fe.jpg
+location:
+
+name:Allen Barry
+head_url:https://scontent-hkg3-1.xx.fbcdn.net/v/t1.0-1/p74x74/12074686_105296499828403_8802033095615170441_n.jpg?_nc_cat=100&_nc_ht=scontent-hkg3-1.xx&oh=2cf12034e49fc78a374b441a27c2f846&oe=5D0FEE04
+person_website:https://www.facebook.com/allen.barry.3367?ref=br_rs
+description:
+head_image:E:\pictures\facebook\60cd26de4edc11e99eb22c4d5453d6fe.jpg
+location:
+
+name:Allen Wallker
+head_url:https://scontent-hkg3-1.xx.fbcdn.net/v/t1.0-1/c0.5.74.74a/p74x74/29186693_118851825619203_512845569320812544_n.jpg?_nc_cat=103&_nc_ht=scontent-hkg3-1.xx&oh=600c855e7ac5c32ae84931cf7b0a84e3&oe=5D060770
+person_website:https://www.facebook.com/allen.wallker.92560?ref=br_rs
+description:
+head_image:E:\pictures\facebook\610ca0e14edc11e9bc632c4d5453d6fe.jpg
+location:
+
+name:Allen Shaw
+head_url:https://scontent-hkg3-1.xx.fbcdn.net/v/t1.0-1/c22.0.74.74a/p74x74/10354686_10150004552801856_220367501106153455_n.jpg?_nc_cat=1&_nc_ht=scontent-hkg3-1.xx&oh=bfb99a3bd4a8313edadaa59d176c7926&oe=5D022C59
+person_website:https://www.facebook.com/profile.php?id=100009317075561&ref=br_rs
+description:
+head_image:E:\pictures\facebook\614ae2614edc11e9aa2f2c4d5453d6fe.jpg
+location:
+

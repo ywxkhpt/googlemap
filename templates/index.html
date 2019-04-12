@@ -1,0 +1,102 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>人物检索</title>
+    <link rel="stylesheet" href="{% static "css/index.css" %}">
+    <script src="{% static "js/iquery-1.8.0.js" %}"></script>
+
+
+</head>
+<body>
+<div class="main">
+
+    <div class="left">
+        <div class="top">
+            <img src="{% static "images/team2.jpg" %}">
+            <div> 热比娅——斯达飞</div>
+        </div>
+        <div class="biaoqian">
+            标签:
+            <br/>
+            全国射击冠军
+            <br/>
+            非洲支援活动
+        </div>
+        <div class="yonghu">
+            <ul class="userMenu">
+                <li class="current" data-id="shousuo">信息来源</li>
+                <li data-id="center">基本信息</li>
+                <li data-id="account">社交关系</li>
+                <li data-id="trade">观点论言</li>
+                <li data-id="info">网络评价</li>
+                <li data-id="guanlian">关联信息</li>
+                <li data-id="lishi">历史活动</li>
+                <li data-id="xitong">系统推荐</li>
+            </ul>
+        </div>
+    </div>
+
+    <div id="content"></div>
+</div>
+
+</body>
+<script>
+    $(function () {
+        $(".userMenu").on("click", "li", function () {
+            var sId = $(this).data("id"); //获取data-id的值
+            window.location.hash = sId; //设置锚点
+            loadInner(sId);
+        });
+
+        function loadInner(sId) {
+            var sId = window.location.hash;
+            var pathn, i;
+            switch (sId) {
+                case "#center":
+                    pathn = "user_center.html";
+                    i = 0;
+                    break;
+                case "#account":
+                    pathn = "user_account.html";
+                    i = 1;
+                    break;
+                case "#trade":
+                    pathn = "user_trade.html";
+                    i = 2;
+                    break;
+                case "#info":
+                    pathn = "user_info.html";
+                    i = 3;
+                    break;
+                case "#guanlian":
+                    pathn = "user_info.html";
+                    i = 4;
+                    break;
+                case "#lishi":
+                    pathn = "user_info.html";
+                    i = 5;
+                    break;
+                case "#xitong":
+                    pathn = "user_info.html";
+                    i = 6;
+                    break;
+                case "#shousuo":
+                    pathn = "shousuo.html";
+                    i = 7;
+                    break;
+                default:
+                    pathn = "shousuo.html";
+                    i = 0;
+                    break;
+            }
+            $("#content").load(pathn); //加载相对应的内容
+            $(".userMenu li").eq(i).addClass("shousuo").siblings().removeClass("shousuo"); //当前列表高亮
+        }
+
+        var sId = window.location.hash;
+        loadInner(sId);
+    });
+</script>
+</html>

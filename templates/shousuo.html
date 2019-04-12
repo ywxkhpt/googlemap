@@ -1,0 +1,66 @@
+{% load static %}
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="{% static "css/shousuo.css" %}">
+    <link rel="stylesheet" href="{% static "css/animate.css" %}">
+    <link rel="stylesheet" href="{% static "css/normalize.css" %}">
+    <script src="{% static "js/jquery.min.js" %}"></script>
+    <script src="{% static "js/anniu.js" %}"></script>
+    <script src="{% static "js/fengye.js" %}"></script>
+    <script src="{% static "js/data.js" %}"></script>
+    <script src="{% static "js/paging.js" %}"></script>
+    <script src="{% static "js/pinterest_grid.js" %}"></script>
+    <script src="{% static "js/gallery.js" %}"></script>
+
+
+    <script src="{% static "js/jquery-migrate-1.2.1.min.js" %}"></script>
+    <script src="{% static "js/pagegroup.js" %}"></script>
+
+
+</head>
+<body>
+<div class="top-1">信息搜索
+    <form action="/search" method="post">
+        {% csrf_token %}
+        <div>
+            <input type="text" class="txtingput" name="personName" placeholder="请输入检索关键字"/>
+            <input type="submit" class="txtbutton" value="信息检索">
+        </div>
+    </form>
+</div>
+
+
+<div class="main-shousuo-1">
+
+    <ul class="nav">
+        <li id="test1" onclick="show1()">Twitter</li>
+        <li id="test2" onclick="show2()">领英</li>
+        <li id="test3" onclick="show3()">Google</li>
+        <li id="test4" onclick="show4()">Facebook</li>
+    </ul>
+</div>
+
+<div id="div1">
+    {% include "shousuo_Twitter.html" %}
+</div>
+
+<div style="display:none" id="div2">
+
+
+    {% include "shousuo_linying.html" %}
+
+</div>
+
+<div style="display:none" id="div3">
+    {% include "shousuo_Google.html" %}
+</div>
+
+<div style="display:none" id="div4">
+    {% include "shousuo_Facebook.html" %}
+</div>
+
+</body>
+
+</html>
