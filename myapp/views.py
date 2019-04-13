@@ -39,5 +39,5 @@ def search(request):
     search_result = {}
     if request.POST:
         person_name = request.POST['personName']
-    search_result["result"] = twitter_search(person_name)
-    return render(request, "search_result_twitter.html", search_result)
+    search_result["result"] = facebook_search(person_name)
+    return render(request, "search_result_facebook.html", search_result)
